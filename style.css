@@ -83,7 +83,7 @@ header button {
 
 .commitments .p1 {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
 }
 
 .commitments .p1 a {
@@ -100,12 +100,16 @@ header button {
 .commitments h1 {
     padding-left: 50px;
     font-size: 70px;
+     display: flex;
+    justify-content: center;
 }
 
 .commitments p {
     padding: 10px;
     font-size: 17px;
     padding-left: 40px;
+     display: flex;
+    justify-content: center;
 }
 
 .commitments button {
@@ -115,6 +119,7 @@ header button {
     border: transparent;
     background-color: white;
     padding-left: 50px;
+    margin-left: 100px;
 }
 
 .How-works {
